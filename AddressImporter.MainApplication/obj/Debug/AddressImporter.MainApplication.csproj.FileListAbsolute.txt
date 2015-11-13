@@ -28,3 +28,35 @@ C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\Add
 C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\AddressImporter.MainApplication\obj\Debug\AddressImporter.MainApplication.csprojResolveAssemblyReference.cache
 C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\AddressImporter.MainApplication\obj\Debug\AddressImporter.MainApplication.exe
 C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\AddressImporter.MainApplication\obj\Debug\AddressImporter.MainApplication.pdb
+C:\Work\AddressImporter\AddressImporter.MainApplication\bin\Debug\AddressImporter.MainApplication.exe.config
+C:\Work\AddressImporter\AddressImporter.MainApplication\bin\Debug\AddressImporter.MainApplication.exe
+C:\Work\AddressImporter\AddressImporter.MainApplication\bin\Debug\AddressImporter.MainApplication.pdb
+C:\Work\AddressImporter\AddressImporter.MainApplication\bin\Debug\AddressImporter.AddressService.dll
+C:\Work\AddressImporter\AddressImporter.MainApplication\bin\Debug\AddressImporter.Common.dll
+C:\Work\AddressImporter\AddressImporter.MainApplication\bin\Debug\AddressImporter.Data.Coordinates.dll
+C:\Work\AddressImporter\AddressImporter.MainApplication\bin\Debug\AddressImporter.Data.dll
+C:\Work\AddressImporter\AddressImporter.MainApplication\bin\Debug\AddressImporter.Entities.dll
+C:\Work\AddressImporter\AddressImporter.MainApplication\bin\Debug\Autofac.dll
+C:\Work\AddressImporter\AddressImporter.MainApplication\bin\Debug\Caching.dll
+C:\Work\AddressImporter\AddressImporter.MainApplication\bin\Debug\EntityFramework.dll
+C:\Work\AddressImporter\AddressImporter.MainApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Work\AddressImporter\AddressImporter.MainApplication\bin\Debug\AutoMapper.dll
+C:\Work\AddressImporter\AddressImporter.MainApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Work\AddressImporter\AddressImporter.MainApplication\bin\Debug\EntityFramework.BulkInsert.dll
+C:\Work\AddressImporter\AddressImporter.MainApplication\bin\Debug\EntityFramework.MappingAPI.dll
+C:\Work\AddressImporter\AddressImporter.MainApplication\bin\Debug\AddressImporter.AddressService.pdb
+C:\Work\AddressImporter\AddressImporter.MainApplication\bin\Debug\AddressImporter.Common.pdb
+C:\Work\AddressImporter\AddressImporter.MainApplication\bin\Debug\AddressImporter.Data.Coordinates.pdb
+C:\Work\AddressImporter\AddressImporter.MainApplication\bin\Debug\AddressImporter.Data.pdb
+C:\Work\AddressImporter\AddressImporter.MainApplication\bin\Debug\AddressImporter.Entities.pdb
+C:\Work\AddressImporter\AddressImporter.MainApplication\bin\Debug\Caching.pdb
+C:\Work\AddressImporter\AddressImporter.MainApplication\bin\Debug\Autofac.xml
+C:\Work\AddressImporter\AddressImporter.MainApplication\bin\Debug\EntityFramework.xml
+C:\Work\AddressImporter\AddressImporter.MainApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Work\AddressImporter\AddressImporter.MainApplication\bin\Debug\AutoMapper.xml
+C:\Work\AddressImporter\AddressImporter.MainApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Work\AddressImporter\AddressImporter.MainApplication\bin\Debug\EntityFramework.BulkInsert.pdb
+C:\Work\AddressImporter\AddressImporter.MainApplication\bin\Debug\EntityFramework.MappingAPI.pdb
+C:\Work\AddressImporter\AddressImporter.MainApplication\obj\Debug\AddressImporter.MainApplication.csprojResolveAssemblyReference.cache
+C:\Work\AddressImporter\AddressImporter.MainApplication\obj\Debug\AddressImporter.MainApplication.exe
+C:\Work\AddressImporter\AddressImporter.MainApplication\obj\Debug\AddressImporter.MainApplication.pdb

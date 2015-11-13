@@ -13,3 +13,18 @@ C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\Add
 C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\AddressImporter.Common.Tests\obj\Debug\AddressImporter.Common.Tests.csprojResolveAssemblyReference.cache
 C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\AddressImporter.Common.Tests\obj\Debug\AddressImporter.Common.Tests.dll
 C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\AddressImporter.Common.Tests\obj\Debug\AddressImporter.Common.Tests.pdb
+C:\Work\AddressImporter\AddressImporter.Common.Tests\bin\Debug\AddressImporter.Common.Tests.dll
+C:\Work\AddressImporter\AddressImporter.Common.Tests\bin\Debug\AddressImporter.Common.Tests.pdb
+C:\Work\AddressImporter\AddressImporter.Common.Tests\bin\Debug\AddressImporter.Common.dll
+C:\Work\AddressImporter\AddressImporter.Common.Tests\bin\Debug\Moq.dll
+C:\Work\AddressImporter\AddressImporter.Common.Tests\bin\Debug\nunit.framework.dll
+C:\Work\AddressImporter\AddressImporter.Common.Tests\bin\Debug\EntityFramework.dll
+C:\Work\AddressImporter\AddressImporter.Common.Tests\bin\Debug\AddressImporter.Entities.dll
+C:\Work\AddressImporter\AddressImporter.Common.Tests\bin\Debug\AddressImporter.Common.pdb
+C:\Work\AddressImporter\AddressImporter.Common.Tests\bin\Debug\Moq.xml
+C:\Work\AddressImporter\AddressImporter.Common.Tests\bin\Debug\nunit.framework.xml
+C:\Work\AddressImporter\AddressImporter.Common.Tests\bin\Debug\EntityFramework.xml
+C:\Work\AddressImporter\AddressImporter.Common.Tests\bin\Debug\AddressImporter.Entities.pdb
+C:\Work\AddressImporter\AddressImporter.Common.Tests\obj\Debug\AddressImporter.Common.Tests.csprojResolveAssemblyReference.cache
+C:\Work\AddressImporter\AddressImporter.Common.Tests\obj\Debug\AddressImporter.Common.Tests.dll
+C:\Work\AddressImporter\AddressImporter.Common.Tests\obj\Debug\AddressImporter.Common.Tests.pdb

@@ -11,3 +11,16 @@ C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\Add
 C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\AddressImporter.Data.Coordinates\obj\Debug\AddressImporter.Data.Coordinates.csprojResolveAssemblyReference.cache
 C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\AddressImporter.Data.Coordinates\obj\Debug\AddressImporter.Data.Coordinates.dll
 C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\AddressImporter.Data.Coordinates\obj\Debug\AddressImporter.Data.Coordinates.pdb
+C:\Work\AddressImporter\AddressImporter.Data.Coordinates\bin\Debug\AddressImporter.Data.Coordinates.dll
+C:\Work\AddressImporter\AddressImporter.Data.Coordinates\bin\Debug\AddressImporter.Data.Coordinates.pdb
+C:\Work\AddressImporter\AddressImporter.Data.Coordinates\bin\Debug\AddressImporter.Common.dll
+C:\Work\AddressImporter\AddressImporter.Data.Coordinates\bin\Debug\AddressImporter.Entities.dll
+C:\Work\AddressImporter\AddressImporter.Data.Coordinates\bin\Debug\Newtonsoft.Json.dll
+C:\Work\AddressImporter\AddressImporter.Data.Coordinates\bin\Debug\EntityFramework.dll
+C:\Work\AddressImporter\AddressImporter.Data.Coordinates\bin\Debug\AddressImporter.Common.pdb
+C:\Work\AddressImporter\AddressImporter.Data.Coordinates\bin\Debug\AddressImporter.Entities.pdb
+C:\Work\AddressImporter\AddressImporter.Data.Coordinates\bin\Debug\Newtonsoft.Json.xml
+C:\Work\AddressImporter\AddressImporter.Data.Coordinates\bin\Debug\EntityFramework.xml
+C:\Work\AddressImporter\AddressImporter.Data.Coordinates\obj\Debug\AddressImporter.Data.Coordinates.csprojResolveAssemblyReference.cache
+C:\Work\AddressImporter\AddressImporter.Data.Coordinates\obj\Debug\AddressImporter.Data.Coordinates.dll
+C:\Work\AddressImporter\AddressImporter.Data.Coordinates\obj\Debug\AddressImporter.Data.Coordinates.pdb

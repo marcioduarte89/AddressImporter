@@ -9,3 +9,14 @@ C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\Cac
 C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\Caching\obj\Debug\Caching.csprojResolveAssemblyReference.cache
 C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\Caching\obj\Debug\Caching.dll
 C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\Caching\obj\Debug\Caching.pdb
+C:\Work\AddressImporter\Caching\bin\Debug\Caching.dll
+C:\Work\AddressImporter\Caching\bin\Debug\Caching.pdb
+C:\Work\AddressImporter\Caching\bin\Debug\AddressImporter.Common.dll
+C:\Work\AddressImporter\Caching\bin\Debug\AddressImporter.Entities.dll
+C:\Work\AddressImporter\Caching\bin\Debug\EntityFramework.dll
+C:\Work\AddressImporter\Caching\bin\Debug\AddressImporter.Common.pdb
+C:\Work\AddressImporter\Caching\bin\Debug\AddressImporter.Entities.pdb
+C:\Work\AddressImporter\Caching\bin\Debug\EntityFramework.xml
+C:\Work\AddressImporter\Caching\obj\Debug\Caching.csprojResolveAssemblyReference.cache
+C:\Work\AddressImporter\Caching\obj\Debug\Caching.dll
+C:\Work\AddressImporter\Caching\obj\Debug\Caching.pdb

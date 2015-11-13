@@ -10,3 +10,15 @@ C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\Add
 C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\AddressImporter.Common\obj\Debug\AddressImporter.Common.csprojResolveAssemblyReference.cache
 C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\AddressImporter.Common\obj\Debug\AddressImporter.Common.dll
 C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\AddressImporter.Common\obj\Debug\AddressImporter.Common.pdb
+C:\Work\AddressImporter\AddressImporter.Common\bin\Debug\AddressImporter.Common.dll.config
+C:\Work\AddressImporter\AddressImporter.Common\bin\Debug\AddressImporter.Common.dll
+C:\Work\AddressImporter\AddressImporter.Common\bin\Debug\AddressImporter.Common.pdb
+C:\Work\AddressImporter\AddressImporter.Common\bin\Debug\AddressImporter.Entities.dll
+C:\Work\AddressImporter\AddressImporter.Common\bin\Debug\EntityFramework.dll
+C:\Work\AddressImporter\AddressImporter.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Work\AddressImporter\AddressImporter.Common\bin\Debug\AddressImporter.Entities.pdb
+C:\Work\AddressImporter\AddressImporter.Common\bin\Debug\EntityFramework.xml
+C:\Work\AddressImporter\AddressImporter.Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Work\AddressImporter\AddressImporter.Common\obj\Debug\AddressImporter.Common.csprojResolveAssemblyReference.cache
+C:\Work\AddressImporter\AddressImporter.Common\obj\Debug\AddressImporter.Common.dll
+C:\Work\AddressImporter\AddressImporter.Common\obj\Debug\AddressImporter.Common.pdb

@@ -3,3 +3,8 @@ C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\Add
 C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\AddressImporter.Entities\obj\Debug\AddressImporter.Entities.csprojResolveAssemblyReference.cache
 C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\AddressImporter.Entities\obj\Debug\AddressImporter.Entities.dll
 C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\AddressImporter.Entities\obj\Debug\AddressImporter.Entities.pdb
+C:\Work\AddressImporter\AddressImporter.Entities\bin\Debug\AddressImporter.Entities.dll
+C:\Work\AddressImporter\AddressImporter.Entities\bin\Debug\AddressImporter.Entities.pdb
+C:\Work\AddressImporter\AddressImporter.Entities\obj\Debug\AddressImporter.Entities.csprojResolveAssemblyReference.cache
+C:\Work\AddressImporter\AddressImporter.Entities\obj\Debug\AddressImporter.Entities.dll
+C:\Work\AddressImporter\AddressImporter.Entities\obj\Debug\AddressImporter.Entities.pdb
