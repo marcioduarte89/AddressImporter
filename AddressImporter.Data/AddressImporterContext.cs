@@ -25,8 +25,8 @@ namespace AddressImporter.Data
             base.OnModelCreating(modelBuilder);
         }
 
-        public DbSet<Address> Addresses { get; set; }
-        public DbSet<AddressConnections> AddressConnections { get; set; }
+        public virtual DbSet<Address> Addresses { get; set; }
+        public virtual DbSet<AddressConnections> AddressConnections { get; set; }
         public void PerformeBulkInsert<T>(IEnumerable<T> entities)
         
         {
