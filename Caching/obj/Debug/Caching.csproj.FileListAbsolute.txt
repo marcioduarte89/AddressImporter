@@ -1,0 +1,11 @@
+C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\Caching\bin\Debug\Caching.dll
+C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\Caching\bin\Debug\Caching.pdb
+C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\Caching\bin\Debug\AddressImporter.Common.dll
+C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\Caching\bin\Debug\AddressImporter.Entities.dll
+C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\Caching\bin\Debug\EntityFramework.dll
+C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\Caching\bin\Debug\AddressImporter.Common.pdb
+C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\Caching\bin\Debug\AddressImporter.Entities.pdb
+C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\Caching\bin\Debug\EntityFramework.xml
+C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\Caching\obj\Debug\Caching.csprojResolveAssemblyReference.cache
+C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\Caching\obj\Debug\Caching.dll
+C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\Caching\obj\Debug\Caching.pdb

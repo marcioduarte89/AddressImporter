@@ -1,0 +1,11 @@
+C:\Users\marcio.duarte\documents\visual studio 2013\Projects\AddressImporter\CoordinatesRepository\obj\Debug\CoordinatesRepository.csprojResolveAssemblyReference.cache
+C:\Users\marcio.duarte\documents\visual studio 2013\Projects\AddressImporter\CoordinatesRepository\bin\Debug\CoordinatesRepository.dll
+C:\Users\marcio.duarte\documents\visual studio 2013\Projects\AddressImporter\CoordinatesRepository\bin\Debug\CoordinatesRepository.pdb
+C:\Users\marcio.duarte\documents\visual studio 2013\Projects\AddressImporter\CoordinatesRepository\bin\Debug\AddressImporter.Common.dll
+C:\Users\marcio.duarte\documents\visual studio 2013\Projects\AddressImporter\CoordinatesRepository\bin\Debug\AddressImporter.Entities.dll
+C:\Users\marcio.duarte\documents\visual studio 2013\Projects\AddressImporter\CoordinatesRepository\bin\Debug\AddressImporter.Common.pdb
+C:\Users\marcio.duarte\documents\visual studio 2013\Projects\AddressImporter\CoordinatesRepository\bin\Debug\AddressImporter.Entities.pdb
+C:\Users\marcio.duarte\documents\visual studio 2013\Projects\AddressImporter\CoordinatesRepository\obj\Debug\CoordinatesRepository.dll
+C:\Users\marcio.duarte\documents\visual studio 2013\Projects\AddressImporter\CoordinatesRepository\obj\Debug\CoordinatesRepository.pdb
+C:\Users\marcio.duarte\documents\visual studio 2013\Projects\AddressImporter\CoordinatesRepository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marcio.duarte\documents\visual studio 2013\Projects\AddressImporter\CoordinatesRepository\bin\Debug\Newtonsoft.Json.xml

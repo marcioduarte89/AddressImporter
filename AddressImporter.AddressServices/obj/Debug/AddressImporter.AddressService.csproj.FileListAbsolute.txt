@@ -1,0 +1,13 @@
+C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\AddressImporter.AddressServices\bin\Debug\AddressImporter.AddressService.dll
+C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\AddressImporter.AddressServices\bin\Debug\AddressImporter.AddressService.pdb
+C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\AddressImporter.AddressServices\bin\Debug\AddressImporter.Common.dll
+C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\AddressImporter.AddressServices\bin\Debug\AddressImporter.Entities.dll
+C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\AddressImporter.AddressServices\bin\Debug\AutoMapper.dll
+C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\AddressImporter.AddressServices\bin\Debug\EntityFramework.dll
+C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\AddressImporter.AddressServices\bin\Debug\AddressImporter.Common.pdb
+C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\AddressImporter.AddressServices\bin\Debug\AddressImporter.Entities.pdb
+C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\AddressImporter.AddressServices\bin\Debug\AutoMapper.xml
+C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\AddressImporter.AddressServices\bin\Debug\EntityFramework.xml
+C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\AddressImporter.AddressServices\obj\Debug\AddressImporter.AddressService.csprojResolveAssemblyReference.cache
+C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\AddressImporter.AddressServices\obj\Debug\AddressImporter.AddressService.dll
+C:\Users\marcio.duarte\Documents\Visual Studio 2013\Projects\AddressImporter\AddressImporter.AddressServices\obj\Debug\AddressImporter.AddressService.pdb

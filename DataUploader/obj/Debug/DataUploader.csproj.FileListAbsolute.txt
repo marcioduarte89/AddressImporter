@@ -1,0 +1,1 @@
+c:\users\marcio.duarte\documents\visual studio 2013\Projects\AddressImporter\DataUploader\bin\Debug\DataUploader.exe.config
